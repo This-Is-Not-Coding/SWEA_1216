@@ -17,7 +17,7 @@
 
 8x8 평면 글자판에서 제시된 길이를 가진 회문의 개수를 구하라.
  
-![image](https://github.com/user-attachments/assets/10612ea7-55ab-4e4e-8614-b26b41d9a6ab)
+![image](https://github.com/user-attachments/assets/f2da4580-b058-4126-912f-56c72cb037fd)
 
 위와 같은 글자 판이 주어졌을 때, 길이가 가장 긴 회문은 붉은색 테두리로 표시된 7칸짜리 회문이다.
 
@@ -51,8 +51,8 @@ ABA도 회문이며, ABBA도 회문이다. A또한 길이 1짜리 회문이다.
 [출력]
 
 #부호와 함께 테스트 케이스의 번호를 출력하고, 공백 문자 후 찾은 회문의 길이를 출력한다.
+![image](https://github.com/user-attachments/assets/a02f51c6-b727-4632-93a7-3988504da10a)
 
-![image](https://github.com/user-attachments/assets/44353de8-8e0e-43de-a593-9adf50e71b2b)
 
 
 
